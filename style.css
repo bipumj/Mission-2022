@@ -1,0 +1,113 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.roadmap{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 120px;
+}
+h1{
+    font-size: 60px;    
+    margin-left: 20px;
+}
+.into-p{
+    margin-bottom: 40px;
+}
+.button{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(#DE6262 , #FFB88C);
+    padding: 10px 50px;
+    font-weight: 600 ;
+    border-radius: 5px;
+}
+.text-color{
+    color: darkorange;
+}
+.div-width{
+    width: 100%;
+    margin-left: 10%;
+}
+.div-width img{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.side-border{
+    margin-top: 5px;
+    margin-bottom: -15px;
+    border-left: 3px solid;
+    border-image: linear-gradient( #c21500, #ffc500 );
+    border-image-slice: 1; 
+}
+#mid-header{
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(20, 13, 70);
+}
+h2{
+    font-size: 60px;
+    text-align: center;
+}
+.mission{
+    width: 300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px 25px;
+    border: 0px solid gray ;
+    border-image-slice: 1;
+    border-radius: 15px;
+    background-color:  #d3e4cd88;
+}
+.mission img{
+    width: 50%;
+}
+.mission-p{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    margin: 3px 5px;
+}
+.vission{
+    width: 300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px 25px;
+    border: 0px solid gray ;
+    border-image-slice: 1;
+    border-radius: 15px;
+    background-color: #f2ddc186 ;
+}
+.vission img{
+    width: 50%;
+}
+.vission-p{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    margin: 3px 5px;
+}
+.goal{
+    width: 300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px 25px;
+    border: 0px solid gray ;
+    border-image-slice: 1;
+    border-radius: 15px;
+    background-color: #e2c2b983;
+}
+.goal img{
+    width: 50%;
+}
+.goal-p{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    margin: 3px 5px;
+}
+.complete-roadmap{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+    margin-bottom: 250px;
+}
